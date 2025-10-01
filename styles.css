@@ -6,5 +6,9 @@ h1{
   text-align: center; 
 }
 h2{
+  color: rgb(39, 0, 74);
   text-align: center;
+}
+img{
+  p.solid {border-style: solid;}
 }
