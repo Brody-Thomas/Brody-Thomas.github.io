@@ -44,6 +44,7 @@ h2{
     display: block;
     /* center the images inside the blobs */
     text-align: center;
+    border-radius: 1%;
 }
 .project p{
     /* center the p text in the blob */
